@@ -46,4 +46,14 @@ HTML/CSS → POO (Java) → JavaScript → SQL → C# + Entity Framework → MVV
 
 ## 💼 En dehors du code
 
-Je suis **coordonnateur des opérations chez Intelcom**, dans une station qui traite de **8 000 à 13 000 colis par jour**. J'y ai appris à résoudre des problèmes en équipe, sous pression et avec des délais serrés. Ce sont des
+Je suis **coordonnateur des opérations chez Intelcom**, dans une station qui traite de **8 000 à 13 000 colis par jour**. J'y ai appris à résoudre des problèmes en équipe, sous pression et avec des délais serrés. Ce sont des qualités que j'apporte aussi dans mes projets.
+
+---
+
+## 📫 Me joindre
+
+✉️ [anicetmizumbi7@gmail.com](mailto:anicetmizumbi7@gmail.com)
+
+---
+
+> 🤖 J'ai utilisé **Claude** (IA d'Anthropic) pour m'aider à organiser mes dépôts et à rédiger les README. Mes projets ont été réalisés par moi (ou avec mon équipe, quand c'est indiqué), à différents moments de mon parcours au Cégep de Granby.
